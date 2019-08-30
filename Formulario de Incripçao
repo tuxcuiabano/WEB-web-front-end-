@@ -1,0 +1,44 @@
+<html>
+<body>
+<h1> Formulario Inscripçao</h1>
+
+<form action="/action_page.php">
+
+<br>
+Nome:<br>
+<input type="text" name="Nome">
+<br><br>
+Senha:<br>
+<input type="password" name="Endereço">
+<br><br>
+Telefone:<br>
+<input type="telefone" name="Telefone">
+<br><br>
+Email:<br>
+<input type="email" name="E-mail">
+<br><br>
+Sexo:<br>
+<input type="radio" name="gender" value="masculino" >masculino<br>
+<input type="radio"  name="gender" value="femenino" >femenino<br>
+<input type="radio"  name="gender" value="outros" >outros>
+<br><br>
+Edade:<br>
+<input type="number" name="Edade">
+<br><br>
+Curso:<br>
+<input type="checkbox" name="sistemas" value="curso"> EU CURSO SISTEMA PARA INTERNET.<br>
+<input type="checkbox" name="redes" value="curso"> EU CURSO INGENHERIA DA COMPUTAÇAO.<br>
+<input type="checkbox" name="redes" value="curso"> EU CURSO REDES.<br>
+<br><br>
+
+
+
+<h>vc gostou de sua turma ? </h>
+<input type="range" name="edade" min="18" max="99" step="8" value="100">
+<br><br>
+<input type="submit">
+
+</form>
+
+</body>
+</html>
