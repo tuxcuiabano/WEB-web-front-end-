@@ -1,0 +1,72 @@
+h1{
+	color:red;
+	background-color:black;
+	
+}
+
+.color{
+	color:blue;
+}
+.colorgreen{
+	color:green;
+}
+.coloryellow {
+	color:fuchsia;
+}
+.background {
+	background-color:yellow;
+	color:green;
+	font-size:70px;
+}
+.alefe {
+	font-family: 'Work Sans', sans-serif;
+}
+.alefe1 {
+	font-family: 'Anton', sans-serif;
+	background-color:navy;
+	font-size:60px;
+}
+.alefe2 {
+	font-family: 'Anton', sans-serif;
+font-family: 'Indie Flower', cursive;
+font-size: 70px;
+}
+
+/// agora o HTML.
+<DOCTYPE html>
+<html>
+
+<head>
+<link rel="stylesheet" href="Stilo.css">
+<link href="https://fonts.googleapis.com/css?family=Work+Sans&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Anton&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Anton|Indie+Flower&display=swap" rel="stylesheet">
+</head>
+<body>
+<h1> HOLA ESPANA </h1>
+</body>
+<body>
+<h1> COMO ESTAIS HOY?</h1>
+</body>
+<body>
+<h1 class="color">  YO ESTOY BIEN !!!</h1>
+</body>
+<body>
+<h1 class="colorgreen"> YO ESTOY EN BRASIL</h1>
+</body>
+<body>
+<h1 class="coloryellow"> ESTOY BAILANDO SAMBA</h1>
+</body>
+<body>
+<h1 class="background"> Y JUGANDO A FUTBOL !!</h1>
+</body>
+<body>
+<h1 class="alefe">Then came the night of the first falling star.<h1>
+<h1 class="alefe1">EL BARCELONA NO PASO DEL EMPATE ANTE UN PARTIDO MUITO DIFICIL<h1>
+<h1 class="alefe2">Messi no tubo un buen dia , el dia del aniversario de su mujer.<h1>
+<h1> El real madrid le endoso dos goles a cero a un barça flaco en la defensa y cansado en la delantera! <h1>
+</body>
+
+
+</html>  
+
