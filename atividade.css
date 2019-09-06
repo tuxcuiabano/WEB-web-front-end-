@@ -3,7 +3,7 @@ html
 <html>
 <head>
 
-<link rel="stylesheet" href="estilo.css">
+<link rel="stylesheet" type="text/css" href="estilo.css">
 <style>
 p {
  color:red;
