@@ -1,0 +1,23 @@
+html
+<DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" href="estilo.css">
+<style>
+p {
+ color:red;
+}
+</style>
+</head>
+<body>
+<p style="color:green;">¿Cuál es el tema central de Don Quijote de la Mancha? ... En el primer libro, Sancho Panza, un hombre bajo, gordo y analfabeto, decide seguir a don Quijote en sus aventuras. Este hombre realista, aunque vive en el mundo moderno y ve las cosas desde esa perspectiva, le es fiel a su amigo don Quijote.</p>
+</body>
+</html>
+
+CSS
+
+p {
+	color: blue;
+	}
+
